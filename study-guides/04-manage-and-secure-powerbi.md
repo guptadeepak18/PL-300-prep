@@ -10,8 +10,8 @@ This domain covers workspace administration, distributing content, configuring s
 
 1. [Create and Manage Workspaces and Assets](#1-create-and-manage-workspaces-and-assets)
 2. [Secure and Govern Data](#2-secure-and-govern-data)
-3. [Common Exam Pitfalls](#4-common-exam-pitfalls)
-4. [Key Terms Glossary](#5-key-terms-glossary)
+3. [Common Exam Pitfalls](#3-common-exam-pitfalls)
+4. [Key Terms Glossary](#4-key-terms-glossary)
 
 ---
 
@@ -373,6 +373,7 @@ Control who can use the semantic model independently of reports:
 ---
 
 ## 3. Common Exam Pitfalls
+
 
 | Pitfall | Correct Understanding |
 |---|---|
