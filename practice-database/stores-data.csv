@@ -1,0 +1,11 @@
+StoreID,StoreName,City,State,Country,Region,StoreType,OpenDate
+S001,Downtown Flagship,New York,New York,USA,East,Flagship,2018-03-15
+S002,West Coast Hub,Los Angeles,California,USA,West,Flagship,2018-07-22
+S003,Lakefront Standard,Chicago,Illinois,USA,Central,Standard,2019-01-10
+S004,Southern Gateway,Houston,Texas,USA,South,Standard,2019-06-05
+S005,Capital Standard,Washington,District of Columbia,USA,East,Standard,2020-02-14
+S006,Bay Area Outlet,San Francisco,California,USA,West,Outlet,2020-09-01
+S007,Peachtree Standard,Atlanta,Georgia,USA,South,Standard,2021-04-18
+S008,Mile High Outlet,Denver,Colorado,USA,West,Outlet,2021-11-30
+S009,Emerald City Standard,Seattle,Washington,USA,West,Standard,2022-05-20
+S010,Sunshine Outlet,Miami,Florida,USA,South,Outlet,2023-01-08
