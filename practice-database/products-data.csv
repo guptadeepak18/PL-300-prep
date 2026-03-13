@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice,Brand
+P001,TechNova Pro Phone,Electronics,Smartphones,529.57,693.74,TechNova
+P002,PixelWave UltraBook 15,Electronics,Laptops,256.27,351.09,PixelWave
+P003,CircuitPro Wireless Buds,Electronics,Headphones,602.35,903.53,CircuitPro
+P004,ByteForge Tab X10,Electronics,Tablets,719.13,956.44,ByteForge
+P005,NeonEdge Mirrorless Cam,Electronics,Cameras,366.44,480.04,NeonEdge
+P006,TechNova Fit Watch,Electronics,Smartwatches,213.98,310.27,TechNova
+P007,UrbanThread Classic Tee,Clothing,T-Shirts,10.97,17.99,UrbanThread
+P008,StyleCraft Slim Jeans,Clothing,Jeans,80.79,151.89,StyleCraft
+P009,FitWear Alpine Jacket,Clothing,Jackets,32.69,62.44,FitWear
+P010,LoomLine Maxi Dress,Clothing,Dresses,98.66,147.99,LoomLine
+P011,VelvetEdge Leather Boots,Clothing,Shoes,98.25,195.52,VelvetEdge
+P012,UrbanThread Silk Scarf,Clothing,Accessories,46.11,74.24,UrbanThread
+P013,NestWell Oak Bookshelf,Home & Garden,Furniture,287.59,440.01,NestWell
+P014,GreenLeaf Chef Knife Set,Home & Garden,Kitchenware,36.9,53.14,GreenLeaf
+P015,CozyHome Pendant Lamp,Home & Garden,Lighting,255.77,419.46,CozyHome
+P016,BrightSpace Wall Art,Home & Garden,Decor,244.07,412.48,BrightSpace
+P017,TerraBloom Pruner Kit,Home & Garden,Garden Tools,165.51,296.26,TerraBloom
+P018,NestWell Linen Cushion,Home & Garden,Furniture,119.77,194.03,NestWell
+P019,PeakForm Dumbbell Set,Sports,Fitness Equipment,209.91,333.76,PeakForm
+P020,TrailBlazer Trail Runner,Sports,Running Shoes,217.5,341.48,TrailBlazer
+P021,IronGrip Camping Tent,Sports,Outdoor Gear,180.57,254.6,IronGrip
+P022,FlexMotion Soccer Ball,Sports,Team Sports,68.56,102.15,FlexMotion
+P023,SummitPro Yoga Mat,Sports,Yoga,33.75,49.61,SummitPro
+P024,PeakForm Resistance Bands,Sports,Fitness Equipment,38.74,57.34,PeakForm
+P025,PageTurner Mystery Novel,Books,Fiction,27.25,45.78,PageTurner Press
+P026,InkWell Business Guide,Books,Non-Fiction,17.96,28.74,InkWell Publishing
+P027,BrightMind Biology 101,Books,Textbooks,14.34,28.25,BrightMind Books
+P028,NovelSphere Kids Adventure,Books,Children,27.68,49.82,NovelSphere
+P029,ReadMore Italian Recipes,Books,Cookbooks,10.99,20.44,ReadMore
+P030,PageTurner Sci-Fi Epic,Books,Fiction,10.72,18.12,PageTurner Press

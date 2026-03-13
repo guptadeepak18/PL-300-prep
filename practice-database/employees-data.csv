@@ -1,0 +1,41 @@
+EmployeeID,FirstName,LastName,Email,Department,JobTitle,HireDate,Salary,ManagerID,StoreID,PerformanceRating
+E001,Alex,Chen,alex.chen@company.com,Sales,Sales Director,2019-09-19,111044.76,,,5
+E002,Morgan,Patel,morgan.patel@company.com,Marketing,Marketing Director,2018-04-17,146834.39,,,3
+E003,Jordan,O'Brien,jordan.obrien@company.com,IT,IT Director,2018-12-06,137267.17,,,3
+E004,Taylor,Nakamura,taylor.nakamura@company.com,Finance,Finance Director,2018-12-22,149118.98,,,3
+E005,Casey,Santos,casey.santos@company.com,HR,HR Director,2019-10-14,144266.01,,,3
+E006,Riley,Kim,riley.kim@company.com,Operations,Operations Director,2019-12-27,133501.23,,,5
+E007,Quinn,Mueller,quinn.mueller@company.com,IT,IT Support Specialist,2019-02-16,51630.31,E003,S002,3
+E008,Avery,Okafor,avery.okafor@company.com,IT,Software Developer,2019-01-06,71925.9,E003,,4
+E009,Cameron,Johansson,cameron.johansson@company.com,Marketing,Marketing Manager,2024-07-12,96453.12,E002,,4
+E010,Drew,Singh,drew.singh@company.com,Sales,Sales Manager,2021-07-12,74879.7,E001,S002,1
+E011,Skyler,Fernandez,skyler.fernandez@company.com,IT,Software Developer,2022-07-29,80445.11,E003,S006,2
+E012,Harper,Kowalski,harper.kowalski@company.com,Finance,Financial Analyst,2019-11-04,63676.16,E004,,1
+E013,Parker,Tanaka,parker.tanaka@company.com,IT,Systems Administrator,2024-05-31,72612.62,E003,,2
+E014,Logan,Ali,logan.ali@company.com,HR,HR Manager,2020-10-05,71606.67,E005,,2
+E015,Reese,Bergstrom,reese.bergstrom@company.com,Finance,Finance Manager,2021-12-22,89817.94,E004,S002,1
+E016,Dakota,Costa,dakota.costa@company.com,Finance,Finance Manager,2024-07-03,74607.7,E004,,4
+E017,Finley,Dubois,finley.dubois@company.com,Sales,Sales Manager,2024-05-21,75990.24,E001,S001,2
+E018,Rowan,Eriksson,rowan.eriksson@company.com,Marketing,Content Specialist,2022-04-10,69426.44,E002,,1
+E019,Blair,Fischer,blair.fischer@company.com,IT,IT Support Specialist,2024-04-12,57227.42,E003,,1
+E020,Sage,Gupta,sage.gupta@company.com,Operations,Logistics Coordinator,2023-05-07,43697.62,E006,S007,3
+E021,Emery,Hoffman,emery.hoffman@company.com,Marketing,Marketing Manager,2019-07-02,77898.88,E002,,2
+E022,Hayden,Ibrahim,hayden.ibrahim@company.com,IT,Systems Administrator,2019-09-10,58778.27,E003,,1
+E023,Jamie,Jensen,jamie.jensen@company.com,Sales,Account Executive,2022-11-09,75204.5,E001,S007,5
+E024,Kendall,Kumar,kendall.kumar@company.com,Marketing,Content Specialist,2019-09-07,66019.93,E002,,4
+E025,Marley,Larsson,marley.larsson@company.com,HR,Recruiter,2024-04-28,56454.29,E005,S005,1
+E026,Phoenix,Morales,phoenix.morales@company.com,Finance,Finance Manager,2019-05-23,85063.04,E004,,5
+E027,River,Novak,river.novak@company.com,Operations,Logistics Coordinator,2020-08-26,42405.64,E006,S008,2
+E028,Shawn,Olsen,shawn.olsen@company.com,Marketing,Marketing Analyst,2021-02-28,53154.65,E002,,4
+E029,Tatum,Park,tatum.park@company.com,Marketing,Content Specialist,2020-08-28,65852.7,E002,S002,1
+E030,Ellis,Quinn,ellis.quinn@company.com,Finance,Finance Manager,2023-06-16,86561.63,E004,,5
+E031,Addison,Reyes,addison.reyes@company.com,Finance,Financial Analyst,2024-11-10,69542.14,E004,S003,2
+E032,Bailey,Sato,bailey.sato@company.com,HR,Recruiter,2020-02-15,63498.56,E005,,1
+E033,Charlie,Turner,charlie.turner@company.com,IT,Systems Administrator,2022-11-09,76947.34,E003,S008,5
+E034,Devon,Ueda,devon.ueda@company.com,HR,HR Manager,2019-06-03,75165.99,E005,,5
+E035,Frankie,Varga,frankie.varga@company.com,HR,Recruiter,2023-07-04,45775.65,E005,,3
+E036,Glenn,Wang,glenn.wang@company.com,Operations,Operations Analyst,2019-07-21,68643.75,E006,S005,3
+E037,Harley,Xu,harley.xu@company.com,Sales,Sales Manager,2022-05-26,79328.48,E001,S008,1
+E038,Ira,Yamamoto,ira.yamamoto@company.com,Marketing,Marketing Analyst,2022-05-15,74355.49,E002,,3
+E039,Jules,Zhou,jules.zhou@company.com,IT,Systems Administrator,2023-09-04,70124.48,E003,S008,2
+E040,Kit,Andersen,kit.andersen@company.com,Finance,Finance Manager,2024-06-07,92784.8,E004,,1

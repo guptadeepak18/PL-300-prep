@@ -1,0 +1,51 @@
+CustomerID,FirstName,LastName,Email,City,State,Country,Segment,JoinDate
+C001,James,Smith,james.smith@email.com,Minneapolis,Minnesota,USA,Standard,2021-10-26
+C002,Maria,Johnson,maria.johnson@email.com,Los Angeles,California,USA,Standard,2020-03-06
+C003,Robert,Williams,robert.williams@email.com,Portland,Oregon,USA,Standard,2020-05-15
+C004,Linda,Brown,linda.brown@email.com,San Antonio,Texas,USA,Budget,2023-03-07
+C005,David,Jones,david.jones@email.com,Portland,Oregon,USA,Standard,2022-10-19
+C006,Sarah,Garcia,sarah.garcia@email.com,Denver,Colorado,USA,Budget,2023-08-09
+C007,Michael,Miller,michael.miller@email.com,Nashville,Tennessee,USA,Premium,2020-10-12
+C008,Jennifer,Davis,jennifer.davis@email.com,San Diego,California,USA,Budget,2023-01-08
+C009,William,Rodriguez,william.rodriguez@email.com,Dallas,Texas,USA,Budget,2022-05-27
+C010,Jessica,Martinez,jessica.martinez@email.com,Charlotte,North Carolina,USA,Standard,2021-03-25
+C011,Daniel,Hernandez,daniel.hernandez@email.com,Phoenix,Arizona,USA,Standard,2020-07-05
+C012,Emily,Lopez,emily.lopez@email.com,Los Angeles,California,USA,Budget,2020-11-09
+C013,Christopher,Gonzalez,christopher.gonzalez@email.com,Philadelphia,Pennsylvania,USA,Budget,2022-05-14
+C014,Amanda,Wilson,amanda.wilson@email.com,Detroit,Michigan,USA,Premium,2022-02-20
+C015,Matthew,Anderson,matthew.anderson@email.com,Detroit,Michigan,USA,Budget,2022-12-19
+C016,Ashley,Thomas,ashley.thomas@email.com,Dallas,Texas,USA,Budget,2024-10-28
+C017,Andrew,Taylor,andrew.taylor@email.com,New York,New York,USA,Standard,2020-08-22
+C018,Stephanie,Moore,stephanie.moore@email.com,Minneapolis,Minnesota,USA,Budget,2024-04-23
+C019,Joshua,Jackson,joshua.jackson@email.com,Portland,Oregon,USA,Premium,2022-06-09
+C020,Nicole,Martin,nicole.martin@email.com,Philadelphia,Pennsylvania,USA,Standard,2024-01-18
+C021,Anthony,Lee,anthony.lee@email.com,Dallas,Texas,USA,Budget,2024-04-09
+C022,Megan,Perez,megan.perez@email.com,Philadelphia,Pennsylvania,USA,Standard,2020-08-05
+C023,Ryan,Thompson,ryan.thompson@email.com,Austin,Texas,USA,Budget,2022-11-05
+C024,Rachel,White,rachel.white@email.com,Detroit,Michigan,USA,Premium,2022-02-04
+C025,Brandon,Harris,brandon.harris@email.com,Philadelphia,Pennsylvania,USA,Standard,2024-05-13
+C026,Lauren,Sanchez,lauren.sanchez@email.com,Miami,Florida,USA,Budget,2023-05-11
+C027,Tyler,Clark,tyler.clark@email.com,Portland,Oregon,USA,Standard,2020-08-17
+C028,Samantha,Ramirez,samantha.ramirez@email.com,Seattle,Washington,USA,Budget,2024-08-30
+C029,Kevin,Lewis,kevin.lewis@email.com,Austin,Texas,USA,Standard,2021-05-08
+C030,Brittany,Robinson,brittany.robinson@email.com,Charlotte,North Carolina,USA,Budget,2020-06-24
+C031,Justin,Walker,justin.walker@email.com,Atlanta,Georgia,USA,Budget,2024-04-06
+C032,Heather,Young,heather.young@email.com,Minneapolis,Minnesota,USA,Budget,2020-09-19
+C033,Nathan,Allen,nathan.allen@email.com,Atlanta,Georgia,USA,Budget,2020-12-04
+C034,Amber,King,amber.king@email.com,Dallas,Texas,USA,Standard,2023-05-27
+C035,Aaron,Wright,aaron.wright@email.com,Boston,Massachusetts,USA,Budget,2023-01-09
+C036,Danielle,Scott,danielle.scott@email.com,San Antonio,Texas,USA,Budget,2022-03-28
+C037,Jacob,Torres,jacob.torres@email.com,Seattle,Washington,USA,Standard,2022-11-25
+C038,Kayla,Nguyen,kayla.nguyen@email.com,Nashville,Tennessee,USA,Premium,2021-04-05
+C039,Ethan,Hill,ethan.hill@email.com,Chicago,Illinois,USA,Standard,2023-04-19
+C040,Olivia,Flores,olivia.flores@email.com,Minneapolis,Minnesota,USA,Standard,2021-03-27
+C041,Benjamin,Green,benjamin.green@email.com,New York,New York,USA,Premium,2023-07-16
+C042,Sophia,Adams,sophia.adams@email.com,Los Angeles,California,USA,Standard,2020-03-05
+C043,Alexander,Nelson,alexander.nelson@email.com,Portland,Oregon,USA,Premium,2021-05-02
+C044,Isabella,Baker,isabella.baker@email.com,Dallas,Texas,USA,Standard,2021-03-14
+C045,Samuel,Hall,samuel.hall@email.com,Minneapolis,Minnesota,USA,Premium,2024-12-12
+C046,Chloe,Rivera,chloe.rivera@email.com,Charlotte,North Carolina,USA,Standard,2021-05-12
+C047,Thomas,Campbell,thomas.campbell@email.com,Atlanta,Georgia,USA,Budget,2021-01-24
+C048,Grace,Mitchell,grace.mitchell@email.com,Houston,Texas,USA,Premium,2022-06-01
+C049,Henry,Carter,henry.carter@email.com,Seattle,Washington,USA,Standard,2022-08-14
+C050,Lily,Roberts,lily.roberts@email.com,Los Angeles,California,USA,Standard,2023-08-16
